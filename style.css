@@ -1,0 +1,22 @@
+body{
+  background: url(teto.png) no-repeat;
+  background-size: 70%;
+  background-position: 50% -20%;
+}
+button{
+ width: 24%;
+  position: fixed;
+  top: 38%;
+  left: 48%;
+  transform: translate(-50%);
+  height: 25%;
+  background-color: transparent;
+  border-color: transparent;
+}
+p{
+ left: 50%;
+  position: fixed;
+  transform: translate(-50%);
+  top: 60%;
+  text-align: center;
+}
